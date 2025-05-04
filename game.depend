@@ -1,0 +1,426 @@
+# depslib dependency file v1.0
+1744013801 source:c:\users\admin\onedrive\desktop\game\character.cpp
+	"Character.h"
+
+1743296748 c:\users\admin\onedrive\desktop\game\character.h
+	"Dot.h"
+	<SDL.h>
+	<sstream>
+
+1743295910 c:\users\admin\onedrive\desktop\game\dot.h
+	<SDL.h>
+	<utility>
+	<cstdlib>
+	"Tile.h"
+
+1743144084 c:\users\admin\onedrive\desktop\game\tile.h
+	<SDL.h>
+	"LTexture.h"
+
+1743815674 c:\users\admin\onedrive\desktop\game\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"constant.h"
+	"need.h"
+
+1743826414 c:\users\admin\onedrive\desktop\game\constant.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1742864053 c:\users\admin\onedrive\desktop\game\need.h
+	<SDL.h>
+	<cstdio>
+	<cmath>
+	<utility>
+
+1743207954 c:\users\admin\onedrive\desktop\game\datastream.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<sstream>
+	<iomanip>
+	<cmath>
+	"need.h"
+
+1743298614 source:c:\users\admin\onedrive\desktop\game\constant.cpp
+	"constant.h"
+
+1742997537 source:c:\users\admin\onedrive\desktop\game\datastream.cpp
+	"DataStream.h"
+	<cstdio>
+
+1743827984 source:c:\users\admin\onedrive\desktop\game\dot.cpp
+	"Dot.h"
+	"Character.h"
+	<utility>
+
+1743817458 source:c:\users\admin\onedrive\desktop\game\ltexture.cpp
+	"LTexture.h"
+	<cstdio>
+	<cstring>
+
+1742883392 source:c:\users\admin\onedrive\desktop\game\ltimer.cpp
+	"LTimer.h"
+
+1742883392 c:\users\admin\onedrive\desktop\game\ltimer.h
+	<SDL.h>
+
+1743829139 source:c:\users\admin\onedrive\desktop\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cmath>
+	"LTimer.h"
+	"Slime.h"
+	"Wolve.h"
+	"Goblin.h"
+	"Bee.h"
+
+1742954306 c:\users\admin\onedrive\desktop\game\slime.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1742947362 c:\users\admin\onedrive\desktop\game\wolve.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1743036460 source:c:\users\admin\onedrive\desktop\game\need.cpp
+	"need.h"
+	<sstream>
+
+1743265558 source:c:\users\admin\onedrive\desktop\game\slime.cpp
+	"Slime.h"
+
+1743177758 source:c:\users\admin\onedrive\desktop\game\tile.cpp
+	"Tile.h"
+	<SDL.h>
+	<fstream>
+
+1743265558 source:c:\users\admin\onedrive\desktop\game\wolve.cpp
+	"Wolve.h"
+
+1743306518 source:c:\users\admin\onedrive\desktop\game\goblin.cpp
+	"Goblin.h"
+
+1743134808 c:\users\admin\onedrive\desktop\game\goblin.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1743306498 source:c:\users\admin\onedrive\desktop\game\bee.cpp
+	"Bee.h"
+
+1743207396 c:\users\admin\onedrive\desktop\game\bee.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1744981668 source:c:\users\admin\onedrive\desktop\game - copy\bee.cpp
+	"Bee.h"
+
+1744980845 c:\users\admin\onedrive\desktop\game - copy\bee.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1744965057 c:\users\admin\onedrive\desktop\game - copy\character.h
+	"Dot.h"
+	<SDL.h>
+	<sstream>
+
+1744994035 c:\users\admin\onedrive\desktop\game - copy\dot.h
+	<SDL.h>
+	<utility>
+	<cstdlib>
+	"Tile.h"
+
+1744990972 c:\users\admin\onedrive\desktop\game - copy\tile.h
+	<SDL.h>
+	"LTexture.h"
+
+1743815674 c:\users\admin\onedrive\desktop\game - copy\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"constant.h"
+	"need.h"
+
+1744994609 c:\users\admin\onedrive\desktop\game - copy\constant.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1742864053 c:\users\admin\onedrive\desktop\game - copy\need.h
+	<SDL.h>
+	<cstdio>
+	<cmath>
+	<utility>
+
+1744994609 source:c:\users\admin\onedrive\desktop\game - copy\constant.cpp
+	"constant.h"
+
+1742997537 source:c:\users\admin\onedrive\desktop\game - copy\datastream.cpp
+	"DataStream.h"
+	<cstdio>
+
+1743207954 c:\users\admin\onedrive\desktop\game - copy\datastream.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<sstream>
+	<iomanip>
+	<cmath>
+	"need.h"
+
+1744384091 source:c:\users\admin\onedrive\desktop\game - copy\goblin.cpp
+	"Goblin.h"
+
+1744384051 c:\users\admin\onedrive\desktop\game - copy\goblin.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1743817458 source:c:\users\admin\onedrive\desktop\game - copy\ltexture.cpp
+	"LTexture.h"
+	<cstdio>
+	<cstring>
+
+1742883392 source:c:\users\admin\onedrive\desktop\game - copy\ltimer.cpp
+	"LTimer.h"
+
+1742883392 c:\users\admin\onedrive\desktop\game - copy\ltimer.h
+	<SDL.h>
+
+1744995131 source:c:\users\admin\onedrive\desktop\game - copy\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cmath>
+	"LTimer.h"
+	"Bee.h"
+
+1744384199 c:\users\admin\onedrive\desktop\game - copy\slime.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1744384091 c:\users\admin\onedrive\desktop\game - copy\wolve.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1743036460 source:c:\users\admin\onedrive\desktop\game - copy\need.cpp
+	"need.h"
+	<sstream>
+
+1743265558 source:c:\users\admin\onedrive\desktop\game - copy\slime.cpp
+	"Slime.h"
+
+1744993317 source:c:\users\admin\onedrive\desktop\game - copy\tile.cpp
+	"Tile.h"
+	<SDL.h>
+	<fstream>
+
+1744384091 source:c:\users\admin\onedrive\desktop\game - copy\wolve.cpp
+	"Wolve.h"
+
+1744995301 source:c:\users\admin\onedrive\desktop\game - copy\dot.cpp
+	"Dot.h"
+	"Character.h"
+	<utility>
+
+1744973928 source:c:\users\admin\onedrive\desktop\game - copy\character.cpp
+	"Character.h"
+
+1744981668 source:c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\bee.cpp
+	"Bee.h"
+
+1744980845 c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\bee.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1744965057 c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\character.h
+	"Dot.h"
+	<SDL.h>
+	<sstream>
+
+1744994035 c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\dot.h
+	<SDL.h>
+	<utility>
+	<cstdlib>
+	"Tile.h"
+
+1744990972 c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\tile.h
+	<SDL.h>
+	"LTexture.h"
+
+1743815674 c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"constant.h"
+	"need.h"
+
+1744994609 c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\constant.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1742864053 c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\need.h
+	<SDL.h>
+	<cstdio>
+	<cmath>
+	<utility>
+
+1745112146 source:c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\character.cpp
+	"Character.h"
+
+1744994609 source:c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\constant.cpp
+	"constant.h"
+
+1744995301 source:c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\dot.cpp
+	"Dot.h"
+	"Character.h"
+	<utility>
+
+1743817458 source:c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\ltexture.cpp
+	"LTexture.h"
+	<cstdio>
+	<cstring>
+
+1742883392 source:c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\ltimer.cpp
+	"LTimer.h"
+
+1742883392 c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\ltimer.h
+	<SDL.h>
+
+1744995131 source:c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cmath>
+	"LTimer.h"
+	"Bee.h"
+
+1743036460 source:c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\need.cpp
+	"need.h"
+	<sstream>
+
+1744993317 source:c:\users\dell xps 9510\downloads\game_manh_dung\game - copy\tile.cpp
+	"Tile.h"
+	<SDL.h>
+	<fstream>
+
+1744981668 source:c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\bee.cpp
+	"Bee.h"
+
+1744980845 c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\bee.h
+	<SDL.h>
+	<sstream>
+	"Character.h"
+
+1744965057 c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\character.h
+	"Dot.h"
+	<SDL.h>
+	<sstream>
+
+1744994035 c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\dot.h
+	<SDL.h>
+	<utility>
+	<cstdlib>
+	"Tile.h"
+
+1744990972 c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\tile.h
+	<SDL.h>
+	"LTexture.h"
+
+1743815674 c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+	"constant.h"
+	"need.h"
+
+1745158024 c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\constant.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1742864053 c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\need.h
+	<SDL.h>
+	<cstdio>
+	<cmath>
+	<utility>
+
+1745112146 source:c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\character.cpp
+	"Character.h"
+
+1744994609 source:c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\constant.cpp
+	"constant.h"
+
+1744995301 source:c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\dot.cpp
+	"Dot.h"
+	"Character.h"
+	<utility>
+
+1743817458 source:c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\ltexture.cpp
+	"LTexture.h"
+	<cstdio>
+	<cstring>
+
+1742883392 source:c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\ltimer.cpp
+	"LTimer.h"
+
+1742883392 c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\ltimer.h
+	<SDL.h>
+
+1744995131 source:c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cmath>
+	"LTimer.h"
+	"Bee.h"
+
+1743036460 source:c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\need.cpp
+	"need.h"
+	<sstream>
+
+1744993317 source:c:\users\dell xps 9510\downloads\game_manh_dung\game manh dung\tile.cpp
+	"Tile.h"
+	<SDL.h>
+	<fstream>
+
